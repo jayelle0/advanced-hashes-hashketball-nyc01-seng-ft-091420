@@ -184,7 +184,7 @@ def player_stats(input)
         value.each do |player|
           
             return player
-          end
+       
         end
       end
     end
